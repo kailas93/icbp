@@ -1,6 +1,6 @@
-streamlit==1.25.0
-streamlit-option-menu==0.3.2
-pandas==2.1.1
-scikit-learn==1.5.2
-numpy==1.23.5
-Pillow==10.0.1
+streamlit
+streamlit-option-menu
+pandas
+scikit-learn
+numpy
+Pillow
